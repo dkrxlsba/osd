@@ -16,3 +16,6 @@
 - **핵심 모델**: MediaPipe, NumPy
 - **시간 분석**: Python
 
+##  관련 링크
+
+- **[GitHub 저장소 바로가기](https://github.com/dkrkslba/osd)**
